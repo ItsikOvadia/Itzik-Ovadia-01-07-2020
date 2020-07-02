@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a420cf1e-ea38-4b25-b71a-6edbdbbb557e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1dlqZnDksCmWOl9RGHNtQZzTV7z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="codeTask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\iovadiax\Documents\codeTask\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="-regex itzik" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codeTask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\iovadiax\Documents\codeTask\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/itzik/TASK" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/itzik/TASK/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="newM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codeTask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\iovadiax\Documents\codeTask\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/newM.py" />
+      <option name="PARAMETERS" value="-regex itzik" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="new_selenuim" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codeTask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\iovadiax\Documents\DownloadYouTubeMusic\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../scripts/Selenuim" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../scripts/Selenuim/new_selenuim.py" />
+      <option name="PARAMETERS" value="-regex itzik" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codeTask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\iovadiax\Documents\codeTask\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task.py" />
+      <option name="PARAMETERS" value="-regex itzik" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="codeTask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\iovadiax\Documents\DevOps\Flask_Test\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.newM" />
+      <item itemvalue="Python.task" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.new_selenuim" />
+      <item itemvalue="Python.main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.new_selenuim" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.task" />
+        <item itemvalue="Python.newM" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a420cf1e-ea38-4b25-b71a-6edbdbbb557e" name="Default Changelist" comment="" />
+      <created>1593010085105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593010085105</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="266" y="48" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593589187814">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="243" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1593338181723" />
+    <state x="266" y="48" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1593589187814" />
+    <state x="565" y="308" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593010178128">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="565" y="308" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1593010178128" />
+    <state width="828" height="439" key="GridCell.Tab.0.bottom" timestamp="1593589259665">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="757" height="249" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593517767575" />
+    <state width="828" height="439" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1593589259665" />
+    <state width="828" height="439" key="GridCell.Tab.0.center" timestamp="1593589259665">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="757" height="249" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593517767575" />
+    <state width="828" height="439" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1593589259665" />
+    <state width="828" height="439" key="GridCell.Tab.0.left" timestamp="1593589259665">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="757" height="249" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593517767574" />
+    <state width="828" height="439" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1593589259665" />
+    <state width="828" height="439" key="GridCell.Tab.0.right" timestamp="1593589259665">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="757" height="249" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593517767575" />
+    <state width="828" height="439" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1593589259665" />
+    <state width="757" height="313" key="GridCell.Tab.1.bottom" timestamp="1593517699268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="757" height="313" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593517699268" />
+    <state width="829" height="401" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1593428953443" />
+    <state width="757" height="313" key="GridCell.Tab.1.center" timestamp="1593517699267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="757" height="313" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593517699267" />
+    <state width="829" height="401" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1593428953442" />
+    <state width="757" height="313" key="GridCell.Tab.1.left" timestamp="1593517699267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="757" height="313" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593517699267" />
+    <state width="829" height="401" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1593428953442" />
+    <state width="757" height="313" key="GridCell.Tab.1.right" timestamp="1593517699267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="757" height="313" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593517699267" />
+    <state width="829" height="401" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1593428953443" />
+    <state x="303" y="67" width="1007" height="715" key="SettingsEditor" timestamp="1593588410337">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593437365646" />
+    <state x="303" y="67" width="1007" height="715" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1593588410337" />
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1593423835374">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1593423835374" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ConvertGrepToPython.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ConvertGrepToPython.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ConvertGrepToPython.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/newM.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/task.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
