@@ -1,4 +1,4 @@
-My Automation test project inclued the following steps: 
+My Automation test project inclued the following steps:  
   1.Form:
     a.The test enter each time one wrong value and check if the system return error. 
     b.The test enter combinations of the wrong values and check it.
